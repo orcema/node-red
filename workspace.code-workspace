@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../../../.node-red"
+		},
+		{
+			"path": "../node-red-contrib"
 		}
 	],
 	"settings": {
